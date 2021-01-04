@@ -1,7 +1,5 @@
 # Sales Forecast Capstone Project  IIITB Assignment
 
-Developed by:
-
 ### Github Details:
 
 <span style="color: green"> Rakesh Kumar </span>
