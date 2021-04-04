@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=blue)
+
 # Sales Forecast Capstone Project  IIITB Assignment
 
 ### Github Details:
